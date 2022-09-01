@@ -1,11 +1,11 @@
-var firebaseConfig = {
-      apiKey: "AIzaSyBxIMPkphg-4mTzScB2BtJglkILPHfYdBg",
-      authDomain: "kwitter-9b9d8.firebaseapp.com",
-      databaseURL: "https://kwitter-9b9d8-default-rtdb.firebaseio.com",
-      projectId: "kwitter-9b9d8",
-      storageBucket: "kwitter-9b9d8.appspot.com",
-      messagingSenderId: "269724505163",
-      appId: "1:269724505163:web:b0d2b5d65d9143329429ce"
+const firebaseConfig = {
+      apiKey: "AIzaSyBYtB4F2XlaaG3rq6-Xh8d1yoUlkgEydtw",
+      authDomain: "let-chat-web-app-afbee.firebaseapp.com",
+      databaseURL: "https://let-chat-web-app-afbee-default-rtdb.firebaseio.com",
+      projectId: "let-chat-web-app-afbee",
+      storageBucket: "let-chat-web-app-afbee.appspot.com",
+      messagingSenderId: "536938425397",
+      appId: "1:536938425397:web:3f3125a2075670e32c957c"
     };
   
     // Initialize Firebase
